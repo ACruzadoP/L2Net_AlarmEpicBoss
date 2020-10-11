@@ -8,3 +8,5 @@ Before starting to use them. The following strings will have to be modified in o
 &nbsp;&nbsp;&nbsp;&nbsp;- Player_1_Name<br />
 &nbsp;&nbsp;&nbsp;&nbsp;- Player_2_Name<br />
 &nbsp;&nbsp;&nbsp;&nbsp;- Player_3_Name
+<br /><br />
+As a side note, the script will have to be used by a dead player located on a place where the Epic Boss can be targeted when it shows up.
