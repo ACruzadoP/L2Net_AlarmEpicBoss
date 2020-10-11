@@ -6,7 +6,7 @@ These two files contain the required Scripts for L2Net to set up an alarm that w
 <br /><br />
 Before starting to use them. The following strings will have to be modified in order to show the name of the players that will be waiting the Epic Boss. These players will have to be playing by the time the alarm triggers, otherwise they will not receive it.
 
-<br /><br />
-*Player_1_Name
-*Player_2_Name
-*Player_3_Name
+<br />
+- Player_1_Name<br />
+- Player_2_Name<br />
+- Player_3_Name
